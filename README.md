@@ -29,3 +29,7 @@ to delete the local tag we can use this command:
 to delete the remote tag we can use this command:
 
 `git push origin --delete tag_name`
+
+## Git Branches
+
+![Git Branch](https://mergebase.com/images/git-V.webp)
